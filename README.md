@@ -3,7 +3,7 @@ Error Sample
 
 This repo is the most minimal example I could come up with to demonstrate an error I'm running into.
 
-See stack overflow for details.
+See [stack overflow question](https://github.com/wymp/weenie-framework) for details.
 
 To test:
 
